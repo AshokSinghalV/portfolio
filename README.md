@@ -1,3 +1,3 @@
 # JS Portfolio Website
 
-[🔗Live Demo🔗](https://ashoksinghalv.github.io/portfolio/)
+[🔗Live Portfolio🔗](https://ashoksinghalv.github.io/portfolio/)
